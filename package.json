@@ -16,7 +16,8 @@
     "react-native-snap-carousel": "^3.8.0",
     "react-native-svg": "^9.6.4",
     "react-navigation": "^3.11.1",
-    "victory-native": "^32.0.2"
+    "victory-native": "^32.0.2",
+    "ws": "^7.1.2"
   },
   "devDependencies": {
     "@babel/core": "7.5.5",
