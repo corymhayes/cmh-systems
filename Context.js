@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import { View } from 'react-native';
-
-
 export const TankContext = React.createContext();
 
 class Context extends Component {
